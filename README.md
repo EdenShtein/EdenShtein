@@ -1,1 +1,1 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=*EdenShtein*&show_icons=true&theme=solarized-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdenShtein&show_icons=true&theme=solarized-dark)
